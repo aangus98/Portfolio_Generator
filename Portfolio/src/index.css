@@ -90,6 +90,7 @@ footer {
 footer a {
   color: var(--orange);
   text-decoration: none;
+  padding: 15px;
 }
 
 footer a:hover {
